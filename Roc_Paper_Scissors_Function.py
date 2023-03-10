@@ -20,7 +20,7 @@ def rps(player1, player2):
       print("Player 1 wins!")
     elif player2 == 'scissors':
       print("Player 2 wins!")
-      
+
   # player 1 = scissors
   elif player1 == 'scissors':
     if player2 == 'rock':
